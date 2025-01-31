@@ -26,7 +26,7 @@ Oxygen OS Port for Marble by Team Crafters
 - Added Leica
 - Tweaks For Better BB
 - Gphotos Spoof
-- 120FPS Spoof(Not tested if not working then flash module)
+- 120FPS Spoof Not tested if not working then flash module
 - Fixed NFC (maybe)
 - Fixed Slow Charging
 - Fixed DRM
