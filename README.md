@@ -9,6 +9,7 @@ Oxygen OS Port for Marble by Team Crafters
 - Download from the [sourceforge](https://sourceforge.net/projects/crafters-projects/files/OOS15/Marble/)
 
 ### Flashing instructions
+- Reboot to recovery
 - Wipe
 - Flash fw 1.0.9.0 global 
 - Flash rom 
